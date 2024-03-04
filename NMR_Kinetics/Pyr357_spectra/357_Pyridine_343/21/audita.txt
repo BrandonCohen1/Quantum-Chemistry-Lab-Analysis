@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TopSpin 3.6.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ /opt/topspin3.0/data/UG_labs/nmr/357_Pyridine_343/21/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-03-20 11:54:11.517 -0400>,<nmr>,<edith>,<go4>,<TopSpin 3.6.1>,
+      <created by zg
+	started at 2023-03-20 11:53:01.777 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       5D 97 5B 64 5F AF 67 E5 DF B5 D1 CC BB 62 52 36
+       data hash MD5: 64K
+       CE 4B 89 48 FB B1 CF 85 1C B0 8A 94 00 85 C2 CC>)
+(   2,<2023-03-20 11:54:11.545 -0400>,<nmr>,<edith>,<audit>,<TopSpin 3.6.1>,
+      <user comment:
+       ICON-NMR User ID: UG_labs
+       data hash MD5: 64K
+       CE 4B 89 48 FB B1 CF 85 1C B0 8A 94 00 85 C2 CC>)
+##END=
+
+$$ hash MD5
+$$ F2 7A 78 AB 6C 6F 96 55 D0 E7 EA FB 93 4D 81 A3

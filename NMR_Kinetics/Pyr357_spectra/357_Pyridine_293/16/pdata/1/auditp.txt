@@ -1,0 +1,36 @@
+##TITLE= Audit trail, TopSpin 3.6.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ /opt/topspin3.0/data/UG_labs/nmr/357_Pyridine_293/16/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-03-20 10:29:56.356 -0400>,<nmr>,<edith>,<go4>,<TopSpin 3.6.1>,
+      <created by zg
+	started at 2023-03-20 10:28:46.607 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       5D 97 5B 64 5F AF 67 E5 DF B5 D1 CC BB 62 52 36
+       data hash MD5: 64K
+       62 01 F3 E4 C1 7C 74 A1 E6 2C 71 28 EC 1E 78 61>)
+(   2,<2023-03-20 10:29:56.378 -0400>,<nmr>,<edith>,<audit>,<TopSpin 3.6.1>,
+      <user comment:
+       ICON-NMR User ID: UG_labs
+       data hash MD5: 64K
+       62 01 F3 E4 C1 7C 74 A1 E6 2C 71 28 EC 1E 78 61>)
+(   3,<2023-03-20 10:29:56.697 -0400>,<nmr>,<edith>,<proc1d>,<TopSpin 3.6.1>,
+      <Start of raw data processing
+       ef LB = 0.3 FT_mod = 6 PKNL = 1 SI = 64K 
+       data hash MD5: 64K
+       34 08 BC CE 65 EC 99 A4 A6 34 40 FE 93 73 0B 7B>)
+(   4,<2023-03-20 10:29:58.260 -0400>,<nmr>,<edith>,<proc1d>,<TopSpin 3.6.1>,
+      <apk0 
+       data hash MD5: 64K
+       D5 F2 17 4F C7 7D 5A 95 DF 2C 05 8E B0 7B ED 9E>)
+(   5,<2023-03-20 10:29:58.321 -0400>,<nmr>,<edith>,<proc1d>,<TopSpin 3.6.1>,
+      <abs ABSG = 5 
+       data hash MD5: 64K
+       71 CE 60 08 73 F2 72 7D 16 05 C6 E0 A2 44 B8 E7>)
+##END=
+
+$$ hash MD5
+$$ BF 20 9B F7 A4 BF DB 7C 10 A3 A5 8F 48 F4 E6 05

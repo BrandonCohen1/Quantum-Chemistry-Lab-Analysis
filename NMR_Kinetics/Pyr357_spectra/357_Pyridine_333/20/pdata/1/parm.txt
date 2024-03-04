@@ -1,0 +1,39 @@
+
+Current Data Parameters
+NAME     357_Pyridine_333              
+EXPNO                20              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20230320              
+Time              11.44 h            
+INSTRUM           spect              
+PROBHD   Z8654_0008 (PH              
+PULPROG            zg30              
+TD                65536              
+SOLVENT             Pyr              
+NS                   16              
+DS                    2              
+SWH           12019.230 Hz           
+FIDRES         0.366798 Hz           
+AQ            2.7262976 sec          
+RG                   32              
+DW               41.600 usec         
+DE                11.45 usec         
+TE                333.1 K            
+D1           1.00000000 sec          
+TD0                   1              
+SFO1        600.1337058 MHz          
+NUC1                 1H              
+P0                 2.98 usec         
+P1                 8.95 usec         
+PLW1         9.31110001 W            
+
+F2 - Processing parameters
+SI                65536              
+SF          600.1300000 MHz          
+WDW                  EM              
+SSB      0              
+LB                 0.30 Hz           
+GB       0              
+PC                 1.00              

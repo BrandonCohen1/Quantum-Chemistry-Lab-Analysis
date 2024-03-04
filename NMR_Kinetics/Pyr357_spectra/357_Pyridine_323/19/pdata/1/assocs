@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 3.6.1
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ 2023-03-20 11:46:12.425 -0400  nmr@edith
+$$ /opt/topspin3.0/data/UG_labs/nmr/357_Pyridine_323/19/pdata/1/assocs
+$$ process /opt/topspin3.6.1/prog/mod/dataserver
+##$MULTDISP= </opt/topspin/data/UG_labs/nmr/357_Pyridine_313/18/pdata/1|/opt/topspin/data/UG_labs/nmr/357_Pyridine_303/17/pdata/1|/opt/topspin/data/UG_labs/nmr/357_Pyridine_293/16/pdata/1|/opt/topspin/data/UG_labs/nmr/357_Pyridine_283/15/pdata/1|/opt/topspin/data/UG_labs/nmr/357_Pyridine_273/14/pdata/1>
+##END=

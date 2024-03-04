@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 7
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ 2022-03-21 17:25:42.712 -0400  nmr@b400
+$$ /opt/topspin3.0/data/UG-labs/nmr/357dma_383/2/pdata/1/assocs
+$$ process /opt/topspin3.5pl7/prog/mod/dataserver
+##$MULTDISP= </opt/topspin3.0/data/UG-labs/nmr/357dma_383/1/pdata/1>
+##END=

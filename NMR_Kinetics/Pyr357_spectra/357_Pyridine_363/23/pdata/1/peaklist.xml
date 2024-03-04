@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr" date="2023-03-20T12:13:13.601-04:00" expNo="23" name="357_Pyridine_363" owner="" procNo="1" source="/opt/topspin3.0/data/UG_labs/nmr">
+      <PeakPickDetails>F1=16.188850ppm, F2=-3.838861ppm, MI=0.10cm, MAXI=10000.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="10.163027" intensity="1.782459e-01" type="0"/>
+    <Peak1D F1="9.589823" intensity="2.520865e-01" type="0"/>
+    <Peak1D F1="9.551176" intensity="3.704819e+00" type="0"/>
+    <Peak1D F1="9.078701" intensity="1.226821e-01" type="0"/>
+    <Peak1D F1="8.700817" intensity="2.663093e-01" type="0"/>
+    <Peak1D F1="5.230488" intensity="7.213926e-01" type="0"/>
+    <Peak1D F1="4.356577" intensity="1.248797e-01" type="0"/>
+    <Peak1D F1="4.317647" intensity="3.499758e-01" type="0"/>
+    <Peak1D F1="4.302810" intensity="1.983239e-01" type="0"/>
+    <Peak1D F1="4.283754" intensity="1.226247e+00" type="0"/>
+    <Peak1D F1="4.248253" intensity="1.500000e+01" type="0"/>
+    <Peak1D F1="4.209636" intensity="1.274472e+01" type="0"/>
+    <Peak1D F1="4.206465" intensity="1.229225e+01" type="0"/>
+    <Peak1D F1="4.151337" intensity="3.321240e-01" type="0"/>
+    <Peak1D F1="4.131938" intensity="1.344128e-01" type="0"/>
+    <Peak1D F1="4.118710" intensity="1.405942e-01" type="0"/>
+    <Peak1D F1="4.111940" intensity="1.451675e-01" type="0"/>
+    <Peak1D F1="4.093572" intensity="1.408122e-01" type="0"/>
+    <Peak1D F1="4.086795" intensity="1.331053e-01" type="0"/>
+    <Peak1D F1="4.082211" intensity="1.322702e-01" type="0"/>
+    <Peak1D F1="2.857167" intensity="1.021458e-01" type="0"/>
+  </PeakList1D>
+</PeakList>
